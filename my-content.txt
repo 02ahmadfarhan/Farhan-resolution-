@@ -1,5 +1,9 @@
 RENCANA SAYA
 
--understend js
+-understend javaScript
+*Fundamental
+*Dom
+*Es6
 -understand front end
+
 this end get my future.
