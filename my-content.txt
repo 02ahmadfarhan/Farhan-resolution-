@@ -1,9 +1,9 @@
 RENCANA SAYA
 
--understend javaScript
+- understend javaScript
 *Fundamental
 *Dom
 *Es6
--understand front end
-
+- understand front end
+- learn cyber scurity
 this end get my future.
