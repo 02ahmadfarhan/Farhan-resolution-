@@ -1,9 +1,14 @@
 RENCANA SAYA
 
 - understend javaScript
+* framwork js
 *Fundamental
 *Dom
 *Es6
 - understand front end
+ "Vue
+ "reack js
 - learn cyber scurity
+ "Cisco
 this end get my future.
+
