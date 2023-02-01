@@ -4,8 +4,8 @@ RENCANA SAYA
 * framwork js
 *Fundamental
 *Dom
-*Es6
 - understand front end
+ "Angular
  "Vue
  "reack js
 - learn cyber scurity
